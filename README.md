@@ -50,7 +50,7 @@ My technical support work with the **Commission on Elections (COMELEC)** strengt
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Project One**](https://github.com/codewithgaf/expense-tracker) | Short description of what it does and the problem it solves. | Laravel, MySQL, Docker |
+| [**Expense-Tracker**](https://github.com/codewithgaf/expense-tracker) | Short description of what it does and the problem it solves. | Laravel, MySQL, Docker |
 | [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does and the problem it solves. | Python, PostgreSQL |
 | [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does and the problem it solves. | JavaScript, REST API |
 
