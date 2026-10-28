@@ -14,7 +14,6 @@
 
 Hands-on experience in web application development, database management, and IT technical support. I enjoy building reliable, scalable, and user-focused software that solves real-world problems.
 
-My technical support work with the **Commission on Elections (COMELEC)** strengthened my troubleshooting, analytical thinking, and technical communication skills.
 
 - 🔭 Currently building web applications with **Laravel** and exploring **DevOps** practices
 - 🌱 Learning **Docker**, **Cloud Computing**, and **CI/CD with GitHub Actions**
