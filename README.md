@@ -19,7 +19,6 @@ Hands-on experience in web application development, database management, and IT 
 - 🌱 Learning **Docker**, **Cloud Computing**, and **CI/CD with GitHub Actions**
 - 🤝 Open to collaborating on web development and open-source projects
 - 💬 Ask me about **PHP, Laravel, Python, JavaScript, and databases**
-- 📍 Based in Davao, Philippines
 
 ---
 
